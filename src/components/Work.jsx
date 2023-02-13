@@ -1,6 +1,14 @@
 import React from 'react'
-import WorkImg from '../assets/workImg.jpeg'
+import TAi from '../assets/tai.png'
 import realEstate from '../assets/realestate.jpg'
+import WorkImg from '../assets/workImg.jpeg'
+import LearnCode from '../assets/learncodeempower.png'
+import Bored from '../assets/areyoubored.png'
+import Scotland from '../assets/scotland.png'
+import Vogon from '../assets/vogon.png'
+import Etch from '../assets/etchasketch.png'
+
+
 
 const Work = () => {
   return (
@@ -15,20 +23,20 @@ const Work = () => {
                 
                 {/* Grid Item */}
                 <div 
-                style={{ backgroundImage: `url(${WorkImg})` }} 
+                style={{ backgroundImage: `url(${TAi})` }} 
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            React JS Application
+                            Open AI API Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://teacherai.netlify.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/catrionafsmith/tai">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Code</button>
                             </a>
@@ -38,20 +46,20 @@ const Work = () => {
 
                   {/* Grid Item */}
                   <div 
-                style={{ backgroundImage: `url(${realEstate})` }} 
+                style={{ backgroundImage: `url(${LearnCode})` }} 
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            React JS Application
+                            Chatbot Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://learncodeempower.netlify.app/chatbot.html">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/catrionafsmith/learncodeempower">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Code</button>
                             </a>
@@ -61,20 +69,20 @@ const Work = () => {
 
                  {/* Grid Item */}
                  <div 
-                style={{ backgroundImage: `url(${WorkImg})` }} 
+                style={{ backgroundImage: `url(${Bored})` }} 
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            React JS Application
+                            Flask Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="http://oldfashioned891.pythonanywhere.com/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/catrionafsmith/are_you_bored">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Code</button>
                             </a>
@@ -84,20 +92,20 @@ const Work = () => {
 
                   {/* Grid Item */}
                   <div 
-                style={{ backgroundImage: `url(${realEstate})` }} 
+                style={{ backgroundImage: `url(${Scotland})` }} 
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            React JS Application
+                            Soundboard
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://catrionafsmith.github.io/scot_v_aus_soundboard/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/catrionafsmith/scot_v_aus_soundboard">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Code</button>
                             </a>
@@ -106,20 +114,20 @@ const Work = () => {
                 </div>
                  {/* Grid Item */}
                  <div 
-                style={{ backgroundImage: `url(${WorkImg})` }} 
+                style={{ backgroundImage: `url(${Vogon})` }} 
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            React JS Application
+                            Python Poetry
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://github.com/catrionafsmith/vogon-poetry">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/catrionafsmith/vogon-poetry">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Code</button>
                             </a>
@@ -129,20 +137,20 @@ const Work = () => {
 
                   {/* Grid Item */}
                   <div 
-                style={{ backgroundImage: `url(${realEstate})` }} 
+                style={{ backgroundImage: `url(${Etch})` }} 
                 className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            React JS Application
+                            Etch-A-Sketch Game
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://catrionafsmith.github.io/etch-a-sketch/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/catrionafsmith/etch-a-sketch">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Code</button>
                             </a>
