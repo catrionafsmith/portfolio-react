@@ -3,9 +3,11 @@ import React from 'react'
 import HTML from '../assets/html.png'
 import CSS from '../assets/css.png'
 import JavaScript from '../assets/javascript.png'
-import ReactImg from '../assets/react.png'
-import Tailwind from '../assets/tailwind.png'
+// import ReactImg from '../assets/react.png'
+// import Tailwind from '../assets/tailwind.png'
 import GitHub from '../assets/github.png'
+import Python from '../assets/python-icon.png'
+import Bootstrap from '../assets/bootstrap.png'
 
 
 const Skills = () => {
@@ -32,13 +34,15 @@ const Skills = () => {
                     <p>JavaScript</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={ReactImg} alt="react" />
-                    <p>React</p>
+                    <img className='w-20 mx-auto' src={Bootstrap} alt="bootstrap" />
+                    <p>Bootstrap</p>
                 </div>
+                
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={Tailwind} alt="tailwind" />
-                    <p>Tailwind</p>
+                    <img className='w-20 mx-auto' src={Python} alt="python" />
+                    <p>Python</p>
                 </div>
+                
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={GitHub} alt="github" />
                     <p>GitHub</p>

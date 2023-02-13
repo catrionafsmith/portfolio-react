@@ -18,7 +18,7 @@ const About = () => {
                     </div>
                     <div>
                         <p>
-                            Educator and full-stack software developer.
+                        I'm an educator and biotechnology specialist with a passion for learning. I'm expanding my horizons into web development and continuing my interest in Python for data.
                         </p>
                     </div>
                 </div>
