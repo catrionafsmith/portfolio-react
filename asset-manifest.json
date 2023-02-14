@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.cc68f0bf.css",
+    "main.js": "/portfolio-react/static/js/main.3205310b.js",
+    "static/media/scotland.png": "/portfolio-react/static/media/scotland.6f947f0c6d77a160cdfd.png",
+    "static/media/vogon.png": "/portfolio-react/static/media/vogon.0b3d26b6e67f28bda356.png",
+    "static/media/areyoubored.png": "/portfolio-react/static/media/areyoubored.ecf55742b6568df70c9b.png",
+    "static/media/realestate.jpg": "/portfolio-react/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/learncodeempower.png": "/portfolio-react/static/media/learncodeempower.6326bcf46aa5f5c9e04c.png",
+    "static/media/tai.png": "/portfolio-react/static/media/tai.2cad683967ab55f38b87.png",
+    "static/media/etchasketch.png": "/portfolio-react/static/media/etchasketch.cb7ab1414498e588f9e3.png",
+    "static/media/workImg.jpeg": "/portfolio-react/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/bootstrap.png": "/portfolio-react/static/media/bootstrap.f132cb791703420e69ca.png",
+    "static/media/github.png": "/portfolio-react/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio-react/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolio-react/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.cc68f0bf.css.map": "/portfolio-react/static/css/main.cc68f0bf.css.map",
+    "main.3205310b.js.map": "/portfolio-react/static/js/main.3205310b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc68f0bf.css",
+    "static/js/main.3205310b.js"
+  ]
+}
